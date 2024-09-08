@@ -11,3 +11,4 @@ NOTE: Spacebar needs sorting out shame.
 
 
 
+Repo is here : https://github.com/griffgruff/qmk-sofle
